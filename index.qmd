@@ -1,0 +1,69 @@
+---
+title: "About Me"
+image: me.JPG
+about:
+  template: jolla
+---
+
+Fascinated in technological developments, I enjoy reading up about technological
+innovations and learning new technical skills. I am a self-motivated individual who
+actively seeks new opportunities by stepping out of my comfort zone to challenge
+myself on a daily basis. I strongly believe in teamwork, as well as pursuing a value
+adding and meaningful career.
+
+## Connect with me
+
+<div style="display: flex; gap: 10px;justify-content: center;">
+  <a href="https://www.linkedin.com/in/dan-il/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/xrontux">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Github">
+  </a>
+</div>
+<hr>
+
+## Work Experience
+
+### Software Developer 
+**AXS Pte Ltd, Singapore**  
+*June 2024 - Present*
+<div style="text-align:left;">
+
+- Core Backend Team 
+- LAMP Stack
+- Involved in the backend dealing with settlements between business organisations and AXS 
+- Gained experience with various programming languages and tools.
+
+</div>
+
+### Software Developer Intern
+**Schroders Asset Management, Singapore**  
+*MAY 2023 - AUG 2023*
+
+<div style="text-align:left;">
+
+- Technology: Python, AWS Services
+- Proof-of-Concept event-driven system for managing investment model weights,
+which required a solid understanding of event-driven architecture and the AWS
+server-less Stack
+- Experience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB,
+GraphQL
+- Wrote Integrated Test Cases
+- PoC system proposed to the CTO, demonstrating its ability to be leveraged to
+enhance the efficiency and responsiveness of a core component of Schroders
+investment platform
+
+</div>
+
+### Data Analytics Intern
+**Schroders Asset Management, Singapore**  
+*MAY 2022 - AUG 2022*
+<div style="text-align:left;">
+
+- Technology: Snowflake, PowerBI, Tableau, SQL
+- Wrote a Proof-of-Concept paper on Snowflake
+- Adopted a business use case to produce and demonstrate insights from a historical dataset
+- Utilised PowerBI and Tableau to create insightful dashboards using Schroders’s
+
+</div>
