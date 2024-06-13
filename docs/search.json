@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Fascinated in technological developments, I enjoy reading up about technological innovations and learning new technical skills. I am a self-motivated individual who actively seeks new opportunities by stepping out of my comfort zone to challenge myself on a daily basis. I strongly believe in teamwork, as well as pursuing a value adding and meaningful career."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "About Me",
+    "section": "Connect with me",
+    "text": "Connect with me"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "About Me",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nSoftware Developer\nAXS Pte Ltd, Singapore\nJune 2024 - Present\n\n\nCore Backend Team\nLAMP Stack\nInvolved in the backend dealing with settlements between business organisations and AXS\nGained experience with various programming languages and tools.\n\n\n\n\nSoftware Developer Intern\nSchroders Asset Management, Singapore\nMAY 2023 - AUG 2023\n\n\nTechnology: Python, AWS Services\nProof-of-Concept event-driven system for managing investment model weights, which required a solid understanding of event-driven architecture and the AWS server-less Stack\nExperience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB, GraphQL\nWrote Integrated Test Cases\nPoC system proposed to the CTO, demonstrating its ability to be leveraged to enhance the efficiency and responsiveness of a core component of Schroders investment platform\n\n\n\n\nData Analytics Intern\nSchroders Asset Management, Singapore\nMAY 2022 - AUG 2022\n\n\nTechnology: Snowflake, PowerBI, Tableau, SQL\nWrote a Proof-of-Concept paper on Snowflake\nAdopted a business use case to produce and demonstrate insights from a historical dataset\nUtilised PowerBI and Tableau to create insightful dashboards using Schroders’s"
+  },
+  {
+    "objectID": "writing/pursuit-of-happiness/index.html",
+    "href": "writing/pursuit-of-happiness/index.html",
+    "title": "Pursuit of Happiness?",
+    "section": "",
+    "text": "I Yonder.."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "feature.html",
+    "href": "feature.html",
+    "title": "Daniel",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "Pursuit of Happiness?\n\n\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nDaniel Choi\n\n\n\n\n\n\nNo matching items"
+  }
+]
