@@ -3,8 +3,6 @@ title: "My take on happiness"
 description: ""
 author: "Daniel Choi"
 date: "2024-06-15"
-# draft: true
-
 ---
 Looking back, the first 20 years of my life seemed to lack a sense of purpose.
 
