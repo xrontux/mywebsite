@@ -1,1 +1,29 @@
-/* css styles */
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap");
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+p {
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
