@@ -1,19 +1,68 @@
 ---
-title: "Experience"
-image: profile.jpg
+title: "About Me"
 about:
-  template: jolla
+  template: trestles
+  image: me.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: github
-      text: Github
-      href: https://github.com
-
+      text: Github 
+      href: "https://github.com/xrontux"
+    - icon: envelope
+      text: Email 
+      href: "mailto:xrontux@gmail.com"
 ---
+## Education 
 
-About this blog
+<strong>Singapore Management University, Singapore </strong>
+<br>
+B.A in Computing and Information Systems | Aug 2019 - May 2024
+<br>
+<strong>Victoria Junior College | Singapore | Jan 2017 - Dec 2019</strong>
+<br>
+GCE A Levels | PCME Track 
+
+
+## Experience
+
+### Software Developer 
+**AXS Pte Ltd, Singapore**  
+*June 2024 - Present*
+<div style="text-align:left;">
+
+- Core Backend Team 
+- LAMP Stack
+- Involved in the backend dealing with settlements between business organisations and AXS 
+- Gained experience with various programming languages and tools.
+
+</div>
+
+### Software Developer Intern
+**Schroders Asset Management, Singapore**  
+*MAY 2023 - AUG 2023*
+
+<div style="text-align:left;">
+
+- Technology: Python, AWS Services
+- Proof-of-Concept event-driven system for managing investment model weights,
+which required a solid understanding of event-driven architecture and the AWS
+server-less Stack
+- Experience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB,
+GraphQL
+- Wrote Integrated Test Cases
+- PoC system proposed to the CTO, demonstrating its ability to be leveraged to
+enhance the efficiency and responsiveness of a core component of Schroders
+investment platform
+
+</div>
+
+### Data Analytics Intern
+**Schroders Asset Management, Singapore**  
+*MAY 2022 - AUG 2022*
+<div style="text-align:left;">
+
+- Technology: Snowflake, PowerBI, Tableau, SQL
+- Wrote a Proof-of-Concept paper on Snowflake
+- Adopted a business use case to produce and demonstrate insights from a historical dataset
+- Utilised PowerBI and Tableau to create insightful dashboards using Schroders’s
+
+</div>

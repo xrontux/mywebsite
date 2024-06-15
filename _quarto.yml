@@ -5,13 +5,9 @@ project:
 website:
   title: "Daniel Choi"
   navbar:
-    right:
+    left:
       - writing.qmd
       - experience.qmd
-      # - icon: github
-      #   href: https://github.com/xrontux
-      # - icon: twitter
-      #   href: https://twitter.com
 format:
   html:
     theme: cosmo

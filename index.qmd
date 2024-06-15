@@ -13,57 +13,21 @@ adding and meaningful career.
 
 ## Connect with me
 
-<div style="display: flex; gap: 10px;justify-content: center;">
+<div style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/dan-il/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="border-radius: 50%; width: 48px; height: 48px;">
   </a>
+  <br>
+
   <a href="https://github.com/xrontux">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="Github" style="border-radius: 50%; width: 48px; height: 48px;">
   </a>
+  <br>
+
+  <a href="mailto:xrontux@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" style="border-radius: 50%; width: 48px; height: 48px;">
+  </a>
+  <br>
 </div>
+
 <hr>
-
-## Work Experience
-
-### Software Developer 
-**AXS Pte Ltd, Singapore**  
-*June 2024 - Present*
-<div style="text-align:left;">
-
-- Core Backend Team 
-- LAMP Stack
-- Involved in the backend dealing with settlements between business organisations and AXS 
-- Gained experience with various programming languages and tools.
-
-</div>
-
-### Software Developer Intern
-**Schroders Asset Management, Singapore**  
-*MAY 2023 - AUG 2023*
-
-<div style="text-align:left;">
-
-- Technology: Python, AWS Services
-- Proof-of-Concept event-driven system for managing investment model weights,
-which required a solid understanding of event-driven architecture and the AWS
-server-less Stack
-- Experience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB,
-GraphQL
-- Wrote Integrated Test Cases
-- PoC system proposed to the CTO, demonstrating its ability to be leveraged to
-enhance the efficiency and responsiveness of a core component of Schroders
-investment platform
-
-</div>
-
-### Data Analytics Intern
-**Schroders Asset Management, Singapore**  
-*MAY 2022 - AUG 2022*
-<div style="text-align:left;">
-
-- Technology: Snowflake, PowerBI, Tableau, SQL
-- Wrote a Proof-of-Concept paper on Snowflake
-- Adopted a business use case to produce and demonstrate insights from a historical dataset
-- Utilised PowerBI and Tableau to create insightful dashboards using Schroders’s
-
-</div>
