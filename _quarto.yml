@@ -5,7 +5,7 @@ project:
 website:
   title: "Daniel Choi"
   navbar:
-    right:
+    left:
       - writing.qmd
       - experience.qmd
 format:
