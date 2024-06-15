@@ -2,7 +2,7 @@
 title: "About Me"
 about:
   template: trestles
-  image: me.jpg
+  image: me.JPG
   links:
     - icon: github
       text: Github 
