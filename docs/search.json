@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Daniel Choi",
     "section": "",
-    "text": "Fascinated in technological developments, I enjoy reading up about technological innovations and learning new technical skills. I am a self-motivated individual who actively seeks new opportunities by stepping out of my comfort zone to challenge myself on a daily basis. I strongly believe in teamwork, as well as pursuing a value adding and meaningful career."
+    "text": "Fascinated in technological developments, I enjoy reading up about technological innovations and learning new technical skills. I am a self-motivated individual who actively seeks new opportunities by stepping out of my comfort zone to challenge myself on a daily basis. I strongly believe in teamwork, as well as pursuing a value adding and meaningful career.\nIf you want to know more about me, Click here"
   },
   {
     "objectID": "index.html#connect-with-me",
@@ -30,7 +30,7 @@
   {
     "objectID": "experience.html",
     "href": "experience.html",
-    "title": "About Me",
+    "title": "Experience",
     "section": "",
     "text": "Singapore Management University, Singapore   B.A in Computing and Information Systems | Aug 2019 - May 2024  Victoria Junior College | Singapore | Jan 2017 - Dec 2019  GCE A Levels | PCME Track"
   },
@@ -65,14 +65,14 @@
   {
     "objectID": "experience.html#education",
     "href": "experience.html#education",
-    "title": "About Me",
+    "title": "Experience",
     "section": "",
     "text": "Singapore Management University, Singapore   B.A in Computing and Information Systems | Aug 2019 - May 2024  Victoria Junior College | Singapore | Jan 2017 - Dec 2019  GCE A Levels | PCME Track"
   },
   {
     "objectID": "experience.html#experience",
     "href": "experience.html#experience",
-    "title": "About Me",
+    "title": "Experience",
     "section": "Experience",
     "text": "Experience\n\nSoftware Developer\nAXS Pte Ltd, Singapore\nJune 2024 - Present\n\n\nCore Backend Team\nLAMP Stack\nInvolved in the backend dealing with settlements between business organisations and AXS\nGained experience with various programming languages and tools.\n\n\n\n\nSoftware Developer Intern\nSchroders Asset Management, Singapore\nMAY 2023 - AUG 2023\n\n\nTechnology: Python, AWS Services\nProof-of-Concept event-driven system for managing investment model weights, which required a solid understanding of event-driven architecture and the AWS server-less Stack\nExperience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB, GraphQL\nWrote Integrated Test Cases\nPoC system proposed to the CTO, demonstrating its ability to be leveraged to enhance the efficiency and responsiveness of a core component of Schroders investment platform\n\n\n\n\nData Analytics Intern\nSchroders Asset Management, Singapore\nMAY 2022 - AUG 2022\n\n\nTechnology: Snowflake, PowerBI, Tableau, SQL\nWrote a Proof-of-Concept paper on Snowflake\nAdopted a business use case to produce and demonstrate insights from a historical dataset\nUtilised PowerBI and Tableau to create insightful dashboards using Schroders’s"
   }
