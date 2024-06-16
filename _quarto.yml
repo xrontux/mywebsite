@@ -6,8 +6,10 @@ website:
   title: "Daniel Choi"
   navbar:
     left:
-      - writing.qmd
-      - experience.qmd
+      - text: "Writing"
+        href: writing.qmd
+      - text: "Resume"
+        href: experience.qmd
 format:
   html:
     theme: litera

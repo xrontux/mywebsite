@@ -27,3 +27,8 @@ p {
 p {
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;
 } */
+
+/* for the experience page photo */
+img {
+  max-width: 300px; /* Adjust the size as needed */
+}

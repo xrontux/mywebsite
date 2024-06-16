@@ -1,8 +1,10 @@
 ---
-title: "Experience"
+title: "Daniel Choi"
 about:
   template: trestles
-  image: me.JPG
+  image: profile_photo.jpg
+  image-width: 15em
+  image-shape: rounded
   links:
     - icon: github
       text: Github 
@@ -15,6 +17,7 @@ about:
       href: "mailto:xrontux@gmail.com"
     
 ---
+
 ## Education 
 <hr>
 
