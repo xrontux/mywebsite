@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "writing/duality-within/index.html",
+    "href": "writing/duality-within/index.html",
+    "title": "Inner Duality",
+    "section": "",
+    "text": "Just a quick self reflection of my inner state of mind.\nRecently, I am becoming more aware that my mind is a temple of contradictions, a complex neural web where my thoughts and emotions are unfortunately and perpetually at odds.\nFor instance, I often think that I deserve better opportunities and a brighter future. Yet deep within, I also feel unworthy of the challenges that lie ahead. It’s a paradox I grapple with daily — believing in my potential while simultaneously doubting my capabilities. It’s like an endless mental tug-of-war where there is no winner, because I am pulling from both sides, constantly adjusting the weights of my beliefs and values into disarray.\nI am also materialistic in many ways, driven by the allure of wealth and success. Yet, I despise this yearning for material possessions, recognising the emptiness it often brings. This internal conflict generates constant tension, a perpetual struggle between my aspirations and my principles.\nI set high expectations for myself, envisioning great achievements and significant milestones. However, I frequently feel that I have little to show for these aspirations, as if my dreams are always just out of reach. I believe that this dichotomy between my ambitions and my perceived accomplishments is fuelling the relentless cycle of self-criticism and discontent.\nMy living circumstances present their own set of challenges, adding to the complexity of my internal struggle. I am acutely aware of my good fortune and circumstances compared to many others, yet I can’t shake the feeling of being profoundly unlucky. It’s a peculiar state of mind, feeling both blessed and burdened at the same time. Am I mentally unwell? Or is this just my mind’s distasteful way of keeping me on my toes with its own cosmic jest?\nIn this interplay of contradictions, I find myself desperately seeking balance to soothe the chaos within, striving to reconcile my thoughts with my feelings, my desires with my values, and my expectations with my reality. It’s a journey of self-discovery and acceptance, weaving together the boundaries of who I am and who I aspire to be.\nMaybe this is just what being young is all about — trying to make sense of it all while the universe chuckles at our efforts."
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "Inner Duality\n\n\n\n\n\n\n\n\n\n\n\nJul 30, 2024\n\n\nDaniel Choi\n\n\n\n\n\n\n\n\n\n\n\n\nMy take on happiness\n\n\n\n\n\n\n\n\n\n\n\nJun 15, 2024\n\n\nDaniel Choi\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Daniel Choi",
@@ -12,27 +26,6 @@
     "title": "Daniel Choi",
     "section": "Connect with me",
     "text": "Connect with me"
-  },
-  {
-    "objectID": "index.html#work-experience",
-    "href": "index.html#work-experience",
-    "title": "About Me",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nSoftware Developer\nAXS Pte Ltd, Singapore\nJune 2024 - Present\n\n\nCore Backend Team\nLAMP Stack\nInvolved in the backend dealing with settlements between business organisations and AXS\nGained experience with various programming languages and tools.\n\n\n\n\nSoftware Developer Intern\nSchroders Asset Management, Singapore\nMAY 2023 - AUG 2023\n\n\nTechnology: Python, AWS Services\nProof-of-Concept event-driven system for managing investment model weights, which required a solid understanding of event-driven architecture and the AWS server-less Stack\nExperience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB, GraphQL\nWrote Integrated Test Cases\nPoC system proposed to the CTO, demonstrating its ability to be leveraged to enhance the efficiency and responsiveness of a core component of Schroders investment platform\n\n\n\n\nData Analytics Intern\nSchroders Asset Management, Singapore\nMAY 2022 - AUG 2022\n\n\nTechnology: Snowflake, PowerBI, Tableau, SQL\nWrote a Proof-of-Concept paper on Snowflake\nAdopted a business use case to produce and demonstrate insights from a historical dataset\nUtilised PowerBI and Tableau to create insightful dashboards using Schroders’s"
-  },
-  {
-    "objectID": "writing/pursuit-of-happiness/index.html",
-    "href": "writing/pursuit-of-happiness/index.html",
-    "title": "My take on happiness",
-    "section": "",
-    "text": "Looking back, the first 20 years of my life seemed to lack a sense of purpose.\nI studied because I was a student, learned new sports because I was part of a club, attended church because I was a Christian, and so on. It felt as though my actions were dictated by my environment rather than my own desires. I didn’t give it much thought until I found myself at a crossroads, contemplating my future after graduating from university.\nThis was uncharted territory for me. For the first time, I had to think for myself. Life had been simpler when my primary concerns were upcoming exams or being late for class. Now, I had to consider what I wanted to do for the rest of my life.\nThe prospect of working was unsettling — committing to an indefinite career within a finite lifespan. What if I hated my first job? What if the work I did held no personal value? This was when I truly began to think about how I could lead a happy life.\nOn one hand, the materialistic side of me thought, wouldn’t becoming wealthy and buying whatever I wanted make me happy? Yet another part of me found it foolish to exchange my dwindling time for money that would ultimately be worthless in death. People place immense value on scarce commodities and material wealth, yet they readily trade their even scarcer time for them. It seemed absurd that the average person spends the first 60 years of their life accumulating wealth, only to realize they don’t have much time left. There had to be a way to feel fulfilled and satisfied every day, right?\nWould the number of zeros in my bank account or the sight of green stock charts bring a wide grin to my face on my deathbed? Or would happiness be found in knowing that I devoted my life to helping others? What would happiness look like in those final moments? I’ve yet to find out.\nA philosopher once said that much of our unhappiness stems from confusing elements within our control with those beyond it — believing we can control what is inherently uncontrollable. Achieving great wealth may not be within my control because the effort-to-reward ratio is not something I can manipulate. There are people who work 16 hours a day for minimum wage while others amass wealth effortlessly. While we can aim and shoot to the best of our abilities, factors like the wind can still divert the arrow.\nFow now, my conclusion is that I should focus on are things that I do have control over, which is the process, my approach to life, my values, and so on. The answer seems simple: to do the best I can under given circumstances and find happiness in knowing I did my best. However, the paradox of that simple concept is that, for me, it is very hard. Perhaps I have yet to find what I truly enjoy doing for the rest of my life, and I sincerely hope that I find my own answer.\nFor now, I will devote myself fully to this search."
-  },
-  {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Daniel Choi",
-    "section": "",
-    "text": "Singapore Management University, Singapore   B.A in Computing and Information Systems | Aug 2019 - May 2024  Victoria Junior College | Singapore | Jan 2017 - Dec 2019  GCE A Levels | PCME Track"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -56,11 +49,11 @@
     "text": "Post With Code\n\n\n\n\n\n\n\n\n\n\n\nJun 13, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nJun 10, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "writing.html",
-    "href": "writing.html",
-    "title": "Writing",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Daniel Choi",
     "section": "",
-    "text": "My take on happiness\n\n\n\n\n\n\n\n\n\n\n\nJun 15, 2024\n\n\nDaniel Choi\n\n\n\n\n\n\nNo matching items"
+    "text": "Singapore Management University, Singapore   B.A in Computing and Information Systems | Aug 2019 - May 2024  Victoria Junior College | Singapore | Jan 2017 - Dec 2019  GCE A Levels | PCME Track"
   },
   {
     "objectID": "experience.html#education",
@@ -70,17 +63,17 @@
     "text": "Singapore Management University, Singapore   B.A in Computing and Information Systems | Aug 2019 - May 2024  Victoria Junior College | Singapore | Jan 2017 - Dec 2019  GCE A Levels | PCME Track"
   },
   {
-    "objectID": "experience.html#experience",
-    "href": "experience.html#experience",
-    "title": "Experience",
-    "section": "Experience",
-    "text": "Experience\n\nSoftware Developer\nAXS Pte Ltd, Singapore\nJune 2024 - Present\n\n\nCore Backend Team\nLAMP Stack\nInvolved in the backend dealing with settlements between business organisations and AXS\nGained experience with various programming languages and tools.\n\n\n\n\nSoftware Developer Intern\nSchroders Asset Management, Singapore\nMAY 2023 - AUG 2023\n\n\nTechnology: Python, AWS Services\nProof-of-Concept event-driven system for managing investment model weights, which required a solid understanding of event-driven architecture and the AWS server-less Stack\nExperience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB, GraphQL\nWrote Integrated Test Cases\nPoC system proposed to the CTO, demonstrating its ability to be leveraged to enhance the efficiency and responsiveness of a core component of Schroders investment platform\n\n\n\n\nData Analytics Intern\nSchroders Asset Management, Singapore\nMAY 2022 - AUG 2022\n\n\nTechnology: Snowflake, PowerBI, Tableau, SQL\nWrote a Proof-of-Concept paper on Snowflake\nAdopted a business use case to produce and demonstrate insights from a historical dataset\nUtilised PowerBI and Tableau to create insightful dashboards using Schroders’s"
-  },
-  {
     "objectID": "experience.html#working-experience",
     "href": "experience.html#working-experience",
     "title": "Daniel Choi",
     "section": "Working Experience",
     "text": "Working Experience\n\n\nSoftware Developer\nAXS Pte Ltd, Singapore\nJune 2024 - Present\n\n\nCore Backend Team | LAMP Stack\nInvolved in the backend dealing with settlements between business organisations and AXS\nGained experience with various programming languages and tools.\n\n\n\n\nSoftware Developer Intern\nSchroders Asset Management, Singapore\nMAY 2023 - AUG 2023\n\n\nTechnology | Python, AWS Services\nWorked on a Proof-of-Concept event-driven system for managing investment model weights, which required a solid understanding of event-driven architecture and the AWS server-less Stack\nGained industry experience with AppSync, EventBridge, CloudFormation, Lambda, DynamoDB, GraphQL\nWrote Integrated Test Cases and worked on bug fixes\nPoC system proposed to the CTO, demonstrating its ability to be leveraged to enhance the efficiency and responsiveness of a core component of Schroders investment platform\n\n\n\n\nData Analytics Intern\nSchroders Asset Management, Singapore\nMAY 2022 - AUG 2022\n\n\nTechnology: Snowflake, PowerBI, Tableau, SQL\nWrote a Proof-of-Concept paper on Snowflake\nAdopted a business use case to produce and demonstrate insights from a historical dataset\nUtilised PowerBI and Tableau to create insightful dashboards using Schroders’s historical dataset"
+  },
+  {
+    "objectID": "writing/pursuit-of-happiness/index.html",
+    "href": "writing/pursuit-of-happiness/index.html",
+    "title": "My take on happiness",
+    "section": "",
+    "text": "Looking back, the first 20 years of my life seemed to lack a sense of purpose.\nI studied because I was a student, learned new sports because I was part of a club, attended church because I was a Christian, and so on. It felt as though my actions were dictated by my environment rather than my own desires. I didn’t give it much thought until I found myself at a crossroads, contemplating my future after graduating from university.\nThis was uncharted territory for me. For the first time, I had to think for myself. Life had been simpler when my primary concerns were upcoming exams or being late for class. Now, I had to consider what I wanted to do for the rest of my life.\nThe prospect of working was unsettling — committing to an indefinite career within a finite lifespan. What if I hated my first job? What if the work I did held no personal value? This was when I truly began to think about how I could lead a happy life.\nOn one hand, the materialistic side of me thought, wouldn’t becoming wealthy and buying whatever I wanted make me happy? Yet another part of me found it foolish to exchange my dwindling time for money that would ultimately be worthless in death. People place immense value on scarce commodities and material wealth, yet they readily trade their even scarcer time for them. It seemed absurd that the average person spends the first 60 years of their life accumulating wealth, only to realize they don’t have much time left. There had to be a way to feel fulfilled and satisfied every day, right?\nWould the number of zeros in my bank account or the sight of green stock charts bring a wide grin to my face on my deathbed? Or would happiness be found in knowing that I devoted my life to helping others? What would happiness look like in those final moments? I’ve yet to find out.\nA philosopher once said that much of our unhappiness stems from confusing elements within our control with those beyond it — believing we can control what is inherently uncontrollable. Achieving great wealth may not be within my control because the effort-to-reward ratio is not something I can manipulate. There are people who work 16 hours a day for minimum wage while others amass wealth effortlessly. While we can aim and shoot to the best of our abilities, factors like the wind can still divert the arrow.\nFor now, my conclusion is that I should focus on are things that I do have control over, which is the process, my approach to life, my values, and so on. The answer seems simple: to do the best I can under given circumstances and find happiness in knowing I did my best. However, the paradox of that simple concept is that, for me, it is very hard. Perhaps I have yet to find what I truly enjoy doing for the rest of my life, and I sincerely hope that I find my own answer.\nFor now, I will devote myself fully to this search."
   }
 ]
